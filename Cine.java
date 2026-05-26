@@ -1,7 +1,5 @@
 public class Cine {
     public static void main(String[] args) {
-
-        // Definimos las variables
         boolean tieneEntrada = true;
         int edad = 16;
         
